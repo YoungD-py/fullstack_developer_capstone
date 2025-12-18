@@ -1,4 +1,5 @@
 # Car Dealership & Reviews (IBM Capstone)
+fullstack_developer_capstone
 
 Proyek full-stack Django + React untuk listing dealer, detail dealer, dan ulasan dengan integrasi analisis sentimen.
 
