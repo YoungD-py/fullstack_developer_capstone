@@ -1,0 +1,4 @@
+Django==4.2.11
+django-cors-headers==4.4.0
+requests==2.32.3
+vaderSentiment==3.3.2
